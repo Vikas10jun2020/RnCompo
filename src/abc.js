@@ -4,7 +4,7 @@ import React from 'react';
 export default function abc() {
   return (
     <View>
-      <Text>abc vika</Text>
+      <Text>abc vika kk</Text>
     </View>
   );
 }
