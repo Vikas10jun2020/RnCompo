@@ -4,7 +4,7 @@ import React from 'react';
 const Dropdown = ({data = [], label}) => {
   return (
     <View>
-      <Text>Dropdown</Text>
+      <Text>Dropdown ...</Text>
     </View>
   );
 };
